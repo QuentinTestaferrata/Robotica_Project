@@ -37,7 +37,7 @@ speed = 50
 x_pos = 206
 y_pos = 0
 z_pos = 120.5
-#snelheid van bewegen van arm
+#ZQSDAE bewegingen op de X, Y en Z-as
 movement_speed = 15
 
 #predefinieerde posities
@@ -54,7 +54,6 @@ angles = {
     'tussenPositie':[256, -344, 60, 180, 0, 0],
     'neerleggen':[260, -375, 15, 180, 0, 0],
     'trekken':[260, -375, 40, 180, 0, 0],
-    #'trekken2':[260, -385, 40, 180, 0, 0]
 }
 
 #De positie van arm updaten (Zonder parameters)
