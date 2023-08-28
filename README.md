@@ -8,5 +8,5 @@ How to use this code:
 4) Import my python file inside Example / Wrapper > xArm 7, and from there you can run it. If you want to create your own python program, it is best to do it in there.
 5) If necessary download any dependencies (for example: pip install keyboard)
 
-   - Introduction + code explanation video :
+   - Introduction + code explanation video : https://youtu.be/-ExGPzNc8KI
      
